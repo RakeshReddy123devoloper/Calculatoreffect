@@ -1,2 +1,1 @@
-# Calculatoreffect
-REACT BASED PROJECT
+# calulator-react
